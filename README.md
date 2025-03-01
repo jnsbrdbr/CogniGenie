@@ -1,5 +1,5 @@
 # CogniGenie
-this project is about supporting customers in WhatsAPP application:
+This project is about supporting customers in WhatsAPP application:
 .Handle customer quesries through WhatsAPP with AI-powered responses.
 Here's a 10 phase approach to implement this project:
 1. Project planning and requierments gathering
