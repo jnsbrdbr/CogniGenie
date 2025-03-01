@@ -1,9 +1,9 @@
 # CogniGenie
-this project is about supporting customers in Telegram application:
-.Handle customer quesries through Telegram with AI-powered responses.
+this project is about supporting customers in WhatsAPP application:
+.Handle customer quesries through WhatsAPP with AI-powered responses.
 Here's a 10 phase approach to implement this project:
 1. Project planning and requierments gathering
-2. Telegram bot setup and webhook configuration
+2. WhatsAPP bot setup and webhook configuration
 3. Conversation manager and state managment
 4. Basic message handling and LLM integration
 5. Order tracking and API integration
