@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who wrote the book Wuthering Heights?",
+    "ground_truth": "Emily Brontë",
+    "relevant_docs": ["literature.txt"]
+  },
+  {
+    "question": "What year was Zöllner founded?",
+    "ground_truth": "1876",
+    "relevant_docs": ["history.txt"]
+  },
+  {
+    "question": "What is the capital of France?",
+    "ground_truth": "Paris",
+    "relevant_docs": ["geography.txt"]
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "ground_truth": "Albert Einstein",
+    "relevant_docs": ["science.txt"]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "ground_truth": "Jupiter",
+    "relevant_docs": ["astronomy.txt"]
+  },
+  {
+    "question": "What does MASLD stand for?",
+    "ground_truth": "Metabolic dysfunction-associated steatotic liver disease",
+    "relevant_docs": ["medical.txt"]
+  },
+  {
+    "question": "Which grading system is used for MASLD severity?",
+    "ground_truth": "Steatosis grades 1 to 4",
+    "relevant_docs": ["medical.txt"]
+  },
+  {
+    "question": "Which AI framework is commonly used for Retrieval-Augmented Generation?",
+    "ground_truth": "LlamaIndex",
+    "relevant_docs": ["ai_tools.txt"]
+  },
+  {
+    "question": "What programming language is FastAPI built on?",
+    "ground_truth": "Python",
+    "relevant_docs": ["programming.txt"]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "ground_truth": "Leonardo da Vinci",
+    "relevant_docs": ["art.txt"]
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "ground_truth": "299,792,458 meters per second",
+    "relevant_docs": ["physics.txt"]
+  },
+  {
+    "question": "Which country hosted the 2024 Summer Olympics?",
+    "ground_truth": "France",
+    "relevant_docs": ["sports.txt"]
+  },
+  {
+    "question": "What is Docker mainly used for?",
+    "ground_truth": "Containerization of applications",
+    "relevant_docs": ["devops.txt"]
+  },
+  {
+    "question": "Which German city is Zöllner Signal GmbH headquartered in?",
+    "ground_truth": "Kiel",
+    "relevant_docs": ["company.txt"]
+  },
+  {
+    "question": "What feature does JWT provide in authentication?",
+    "ground_truth": "Token-based stateless authentication",
+    "relevant_docs": ["security.txt"]
+  },
+  {
+    "question": "What is the function of mitochondria?",
+    "ground_truth": "Production of ATP (energy)",
+    "relevant_docs": ["biology.txt"]
+  },
+  {
+    "question": "Which cloud service is known for Azure OpenAI?",
+    "ground_truth": "Microsoft Azure",
+    "relevant_docs": ["cloud.txt"]
+  },
+  {
+    "question": "What year did the Berlin Wall fall?",
+    "ground_truth": "1989",
+    "relevant_docs": ["history.txt"]
+  },
+  {
+    "question": "Which organ is primarily affected in MASLD?",
+    "ground_truth": "Liver",
+    "relevant_docs": ["medical.txt"]
+  },
+  {
+    "question": "What database is commonly used with LlamaIndex?",
+    "ground_truth": "ChromaDB",
+    "relevant_docs": ["ai_tools.txt"]
+  }
+]
